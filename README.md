@@ -139,13 +139,12 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-```
+
 PSK
 <img width="1373" height="902" alt="image" src="https://github.com/user-attachments/assets/ea2ad882-1d91-4fa6-85d9-0cfc7a02f805" />
 QPSK
 <img width="1228" height="733" alt="image" src="https://github.com/user-attachments/assets/b929a87c-29a0-48a5-828a-0900d432fb4f" />
 
-```
 # Results
 ```
 The PSK and QPSK signals were successfully modulated and demodulated using CoLab
